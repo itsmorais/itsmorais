@@ -7,8 +7,8 @@
 ### 🚀 **Atualmente participo da 2ª Turma do projeto Explorer da RocketSeat** 
 🔭 _Estou aprendendo as seguintes tecnologias:_
 
-- ⚡ HTML
-- ⚡ CSS
-- ⚡ JS
-- ⚡ NODEJS
-- ⚡ REACT
+-  HTML
+-  CSS
+-  JAVASCRIPT
+-  NODEJS
+-  REACT
