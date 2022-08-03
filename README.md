@@ -10,5 +10,6 @@
 -  HTML
 -  CSS
 -  JAVASCRIPT
+-  SQL
 -  NODEJS
 -  REACT
