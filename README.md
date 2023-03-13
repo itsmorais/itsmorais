@@ -1,6 +1,12 @@
-# Olá, Me chamo Michael 👋
+# Hi, I'm Michael 👋
 
-### 🧑‍🎓 Sou graduando em Análise e Desenvolvimento de Sistemas na FATEC - SJC  
 
-💻 Projeto mais recente: https://github.com/GabbsSantana/Fatec
+
+💻 Most recent project: https://github.com/itsmorais/react-notes
+
+👷 Current Project : https://github.com/itsmorais/POO-Java
+
+📚 Studying CRUD using Java and Mysql
+
+📁 My website: https://michaelmorais.com
 
