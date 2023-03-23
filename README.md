@@ -4,7 +4,7 @@
 
 💻 Most recent project: https://github.com/itsmorais/react-notes
 
-👷 Current Project : https://github.com/itsmorais/POO-Java
+👷 Current Project : https://github.com/m-u-l-a-s/PARE
 
 📚 Studying CRUD using Java and Mysql
 
