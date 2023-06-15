@@ -10,9 +10,7 @@
 
 
 <div>
-
-<img  width="45%" position="left" src="https://github-readme-stats.vercel.app/api?username=itsmorais&show_icons=true&theme=dark">
-<img align="right" width="45%  "src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorais&layout=compact&theme=dark">
+<img align="center" width="50%  "src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorais&layout=compact&theme=dark">
 </div> 
   
 
