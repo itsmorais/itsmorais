@@ -1,11 +1,11 @@
 # Hi, I'm Michael 👋
-💻 Most recent project: https://github.com/itsmorais/react-notes
+💻 Most recent project: [mobile gym](https://github.com/itsmorais/mobile_gym)
 
-👷 Current Project : https://github.com/m-u-l-a-s/PARE
+👷 Current team Project : [PARE](https://github.com/m-u-l-a-s/PARE)
 
-📚 Studying CRUD using Java and Mysql
+📚 Studying OOP & Database(CRUD) using Java and Mysql
 
-📁 My website: https://michaelmorais.com
+📁 My Portfolio: [Developing...](https://michaelmorais.com)
 
 
 
