@@ -7,6 +7,8 @@
 
 📁 My Portfolio: [Developing...](https://michaelmorais.com)
 
+LinkedIn: [MichaelMorais](https://www.linkedin.com/in/michael-morais22/)
+
 
 
 <div>
