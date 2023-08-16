@@ -3,9 +3,9 @@
 
 👷 Current team Project : [PARE](https://github.com/m-u-l-a-s/PARE)
 
-📚 Studying OOP & Database(CRUD) using Typescript and Postgres
+📚 Studying OOP & Relational Database using Typescript and Postgres
 
-📁 My Portfolio: [Developing...](https://michaelmorais.com)
+📁 My Portfolio: [Developing...](https://portfolio-delta-five-32.vercel.app)
 
 LinkedIn: [MichaelMorais](https://www.linkedin.com/in/michael-morais22/)
 
