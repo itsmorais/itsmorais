@@ -3,7 +3,7 @@
 
 👷 Current team Project : [PARE](https://github.com/m-u-l-a-s/PARE)
 
-📚 Studying OOP & Database(CRUD) using Java and Mysql
+📚 Studying OOP & Database(CRUD) using Typescript and Postgres
 
 📁 My Portfolio: [Developing...](https://michaelmorais.com)
 
