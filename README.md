@@ -1,6 +1,7 @@
 # Hi, I'm Michael! Fullstack Developer 👋
 
-I'm a cross-platform development student currently interning at Embraer. My passion lies in creating innovative solutions and improving my skills as a Fullstack Developer.
+I'm a cross-platform software development student currently interning at Embraer.
+My passion lies in creating innovative solutions and improving my skills as a Fullstack Developer.
 
 💻 Most recent side-project: [Mobile Gym](https://github.com/itsmorais/mobile_gym)
 - A mobile fitness Web-app designed to help users track their workouts and achieve their fitness goals.
