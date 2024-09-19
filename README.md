@@ -1,4 +1,4 @@
-# Hi, I'm Michael! Fullstack Developer 👋
+# Hi, I'm Michael! Software Developer 👋
 
 I'm a cross-platform software development student currently interning at Embraer.
 My passion lies in creating innovative solutions and improving my skills as a Fullstack Developer.
