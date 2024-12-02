@@ -1,6 +1,7 @@
 # Hi, I'm Michael! Software Developer 👋
 
-I'm a cross-platform software development student currently interning at Embraer.
+I'm a software developer currently working at Embraer.
+
 My passion lies in creating innovative solutions and improving my skills as a Fullstack Developer.
 
 
@@ -13,7 +14,7 @@ My passion lies in creating innovative solutions and improving my skills as a Fu
 #### ⌨️ Work Stack: Collaboration with a dev team to maintain a robust website
   - ASP.NET Framework
   - Javascript/Typescript
-  - React/NodeJS
+  - Next/React/NodeJS
   - Oracle SQL/Postgresql/MongoDB
 
 ## 🕸️ Contact me:
